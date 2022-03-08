@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Drattari
 
-You can use the [editor on GitHub](https://github.com/drattari/drattari-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_A fast-paced, mini-game based board game_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project Overview
+### Who are we?
 
-### Markdown
+- Pavitran Sambath
+- Aymeric Faivre
+- Dorian Wolff
+- Christophe de Pontac
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Problems encountered
+As the weeks went by, we struggled to find the right information we needed to start implementing our project.
 
-```markdown
-Syntax highlighted code block
+This is mainly due to the fact that Unity was new to all of us. We also feel that there are far too many ways to solve the same problem, which may not be so bad at first glance, but makes it all the more difficult to get the bearings.
 
-# Header 1
-## Header 2
-### Header 3
+Hopefully, we managed to get off to a good start.✅
 
-- Bulleted
-- List
+### Solutions to those problems
 
-1. Numbered
-2. List
+With time to get used to Unity and game development, we were able to sort through everything the internet had to offer.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drattari/drattari-web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
