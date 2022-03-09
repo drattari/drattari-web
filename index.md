@@ -27,14 +27,14 @@ Since none of us were familiar with Unity before we started **Drattari** and non
 
 ## Mini Games
 ### King Pong
-[King Pong](/images/king_pong.png)
+![King Pong](/images/king_pong.png)
 ### Spam The Line
-[Spam The Line](/images/spam_the_line.png)
+![Spam The Line](/images/spam_the_line.png)
 ### Multiplayer Pitfall
-[Multiplayer Pitfall](/images/pitfall.png)
+![Multiplayer Pitfall](/images/pitfall.png)
 ### Can’t Run Straight
-[Can't Run Straight](/images/cant_run_straight.png)
+![Can't Run Straight](/images/cant_run_straight.png)
 ### Focus or Else
-[Focus Or Else](/images/focus_or_else.png)
+![Focus Or Else](/images/focus_or_else.png)
 ### Spawn Colors
-[Spawn Colors](/images/spawn_colors.png)
+![Spawn Colors](/images/spawn_colors.png)
