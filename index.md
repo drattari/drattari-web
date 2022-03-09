@@ -17,7 +17,10 @@ This is mainly due to the fact that Unity was new to all of us. We also feel tha
 
 Hopefully, we managed to get off to a good start.✅
 
+Another problem arose due to a lack of communication which caused each of us to think of our own mini-games on our own, which meant that we had no idea how to group the mini-games together. We eventually revamped our project management to make it easier for us to add each mini-game to the project, but nothing concrete has been implemented yet.
+
 ### Solutions to those problems
 
 With time to get used to Unity and game development, we were able to sort through everything the internet had to offer.
 
+Since none of us were familiar with Unity before we started **Drattari** and none of us had been involved in such a large programming project before, it was normal to organise the project less efficiently. We have obviously learned from this mistake, and we will definitely work hand in hand from now on.
