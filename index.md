@@ -24,3 +24,17 @@ Another problem arose due to a lack of communication which caused each of us to 
 With time to get used to Unity and game development, we were able to sort through everything the internet had to offer.
 
 Since none of us were familiar with Unity before we started **Drattari** and none of us had been involved in such a large programming project before, it was normal to organise the project less efficiently. We have obviously learned from this mistake, and we will definitely work hand in hand from now on.
+
+## Mini Games
+### King Pong
+[King Pong](/images/king_pong.png)
+### Spam The Line
+[Spam The Line](/images/spam_the_line.png)
+### Multiplayer Pitfall
+[Multiplayer Pitfall](/images/pitfall.png)
+### Can’t Run Straight
+[Can't Run Straight](/images/cant_run_straight.png)
+### Focus or Else
+[Focus Or Else](/images/focus_or_else.png)
+### Spawn Colors
+[Spawn Colors](/images/spawn_colors.png)
